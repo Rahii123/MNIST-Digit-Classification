@@ -20,17 +20,3 @@ python app/gradio_app.py
 
 
 
-📂 Project structure
-
-├── notebooks/
-│   └── mnist_training.ipynb
-├── app/
-│   ├── gradio_app.py
-│   └── rf_model.pkl
-├── README.md
-└── requirements.txt
-
-
-🔗 Links
-MNIST dataset
-
