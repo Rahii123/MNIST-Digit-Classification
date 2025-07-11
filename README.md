@@ -17,11 +17,10 @@ It also deploys a **Gradio app** that lets you draw digits and predicts them.
 ```bash
 pip install -r requirements.txt
 python app/gradio_app.py
+```
 
-
-
-📂 Project structure
-
+## 📂 Project structure
+```
 .
 ├── notebooks/
 │   └── mnist_training.ipynb
@@ -30,8 +29,7 @@ python app/gradio_app.py
 │   └── rf_model.pkl
 ├── README.md
 └── requirements.txt
+```
 
-🔗 Links
-MNIST dataset
-
-
+## 🔗 Links
+- [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
